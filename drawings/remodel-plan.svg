@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="t d">
+  <title id="t">Sample full remodel floor plan</title>
+  <desc id="d">Illustrative sample of an open-concept kitchen and living remodel. Not for construction.</desc>
+  <defs>
+    <pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0 H0 V20" fill="none" stroke="#1d5f8c" stroke-width="0.7"/>
+    </pattern>
+    <pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M100 0 H0 V100" fill="none" stroke="#2f86b8" stroke-width="0.95"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="900" fill="#0f2a52"/>
+  <rect width="1280" height="900" fill="url(#minor)"/>
+  <rect width="1280" height="900" fill="url(#major)"/>
+  <rect x="86.0" y="104.0" width="592.0" height="432.0" fill="#12345e" />
+<path d="M78.0,96.0 h608.0 v448.0 h-608.0 z M86.0,104.0 h592.0 v432.0 h-592.0 z" fill="#1c5584" fill-rule="evenodd" stroke="#e7f6ff" stroke-width="1.3" stroke-linejoin="miter"/>
+<rect x="86.0" y="344.0" width="64.0" height="8.0" fill="#1c5584" stroke="#e7f6ff" stroke-width="1" />
+<line x1="150.0" y1="344.0" x2="678.0" y2="344.0" stroke="#9fd4ea" stroke-width="1.6" stroke-dasharray="9 6"/>
+<line x1="150.0" y1="352.0" x2="678.0" y2="352.0" stroke="#9fd4ea" stroke-width="1.6" stroke-dasharray="9 6"/>
+<line x1="150.0" y1="348.0" x2="678.0" y2="348.0" stroke="#e5b53b" stroke-width="3.2" />
+<rect x="574.0" y="408.0" width="8.0" height="128.0" fill="#1c5584" stroke="#e7f6ff" stroke-width="1" />
+<rect x="582.0" y="400.0" width="96.0" height="8.0" fill="#1c5584" stroke="#e7f6ff" stroke-width="1" />
+<rect x="677.4" y="152.0" width="9.2" height="80.0" fill="#0f2a52" />
+<line x1="678.0" y1="152.0" x2="686.0" y2="152.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="678.0" y1="232.0" x2="686.0" y2="232.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="694.0" y1="146.0" x2="694.0" y2="238.0" stroke="#f4fbff" stroke-width="1.2" />
+<line x1="690.0" y1="160.0" x2="700.0" y2="168.0" stroke="#f4fbff" stroke-width="1.2" />
+<line x1="700.0" y1="168.0" x2="690.0" y2="176.0" stroke="#f4fbff" stroke-width="1.2" />
+<rect x="601.2" y="399.4" width="40.0" height="9.2" fill="#0f2a52" />
+<line x1="601.2" y1="400.0" x2="601.2" y2="408.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="641.2" y1="400.0" x2="641.2" y2="408.0" stroke="#f4fbff" stroke-width="1.8" />
+<path d="M641.20,408.00 A40.00,40.00 0 0 1 601.20,448.00" fill="none" stroke="#9fd4ea" stroke-width="1.25"/>
+<line x1="601.2" y1="408.0" x2="601.2" y2="448.0" stroke="#f4fbff" stroke-width="1.7" />
+<rect x="134.0" y="95.6" width="96.0" height="8.8" fill="#0f2a52" />
+<line x1="135.6" y1="97.8" x2="228.4" y2="97.8" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="135.6" y1="100.0" x2="228.4" y2="100.0" stroke="#f4fbff" stroke-width="1.7" />
+<line x1="135.6" y1="102.2" x2="228.4" y2="102.2" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="134.0" y1="96.0" x2="134.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="230.0" y1="96.0" x2="230.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<rect x="342.0" y="95.6" width="96.0" height="8.8" fill="#0f2a52" />
+<line x1="343.6" y1="97.8" x2="436.4" y2="97.8" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="343.6" y1="100.0" x2="436.4" y2="100.0" stroke="#f4fbff" stroke-width="1.7" />
+<line x1="343.6" y1="102.2" x2="436.4" y2="102.2" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="342.0" y1="96.0" x2="342.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="438.0" y1="96.0" x2="438.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<rect x="534.0" y="95.6" width="80.0" height="8.8" fill="#0f2a52" />
+<line x1="535.6" y1="97.8" x2="612.4" y2="97.8" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="535.6" y1="100.0" x2="612.4" y2="100.0" stroke="#f4fbff" stroke-width="1.7" />
+<line x1="535.6" y1="102.2" x2="612.4" y2="102.2" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="534.0" y1="96.0" x2="534.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="614.0" y1="96.0" x2="614.0" y2="104.0" stroke="#f4fbff" stroke-width="1.8" />
+<rect x="182.0" y="535.6" width="80.0" height="8.8" fill="#0f2a52" />
+<line x1="183.6" y1="537.8" x2="260.4" y2="537.8" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="183.6" y1="540.0" x2="260.4" y2="540.0" stroke="#f4fbff" stroke-width="1.7" />
+<line x1="183.6" y1="542.2" x2="260.4" y2="542.2" stroke="#f4fbff" stroke-width="1.05" />
+<line x1="182.0" y1="536.0" x2="182.0" y2="544.0" stroke="#f4fbff" stroke-width="1.8" />
+<line x1="262.0" y1="536.0" x2="262.0" y2="544.0" stroke="#f4fbff" stroke-width="1.8" />
+<rect x="182.0" y="408.0" width="128.0" height="16.0" fill="none" stroke="#9fd4ea" stroke-width="1.3" stroke-dasharray="5 4"/>
+<rect x="182.0" y="424.0" width="128.0" height="48.0" fill="#14365f" stroke="#f4fbff" stroke-width="1.8" />
+<text x="246.0" y="452.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="13" font-weight="700" fill="#f4fbff" letter-spacing="0.12em" >ISLAND</text>
+<line x1="86.0" y1="504.0" x2="566.0" y2="504.0" stroke="#c5e4f5" stroke-width="1.5" />
+<rect x="94.0" y="497.6" width="48.0" height="38.4" fill="#14365f" stroke="#f4fbff" stroke-width="1.4" />
+<line x1="123.8" y1="497.6" x2="123.8" y2="536.0" stroke="#f4fbff" stroke-width="1.1" />
+<line x1="97.0" y1="501.6" x2="97.0" y2="532.0" stroke="#9fd4ea" stroke-width="1" />
+<ellipse cx="246" cy="520" rx="20" ry="12" fill="#14365f" stroke="#f4fbff" stroke-width="1.4"/>
+<ellipse cx="246" cy="520" rx="9.0" ry="5.4" fill="none" stroke="#9fd4ea" stroke-width="1"/>
+<line x1="246.0" y1="504.0" x2="246.0" y2="509.0" stroke="#f4fbff" stroke-width="1.3" />
+<rect x="342.0" y="504.0" width="41.6" height="32.0" fill="#14365f" stroke="#f4fbff" stroke-width="1.4" />
+<circle cx="355.4" cy="515.0" r="4.2" fill="none" stroke="#f4fbff" stroke-width="1.2"/>
+<circle cx="370.2" cy="515.0" r="4.2" fill="none" stroke="#f4fbff" stroke-width="1.2"/>
+<circle cx="355.4" cy="525.0" r="4.2" fill="none" stroke="#f4fbff" stroke-width="1.2"/>
+<circle cx="370.2" cy="525.0" r="4.2" fill="none" stroke="#f4fbff" stroke-width="1.2"/>
+<text x="118.0" y="328.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#c5e4f5" letter-spacing="0" >(E) NIB</text>
+<text x="310.0" y="200.0" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="650" fill="#f4fbff" letter-spacing="0.12em" >LIVING</text>
+<text x="310.0" y="221.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="18" font-weight="500" fill="#c5e4f5" letter-spacing="0" >Open to kitchen</text>
+<text x="534.0" y="184.0" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="650" fill="#f4fbff" letter-spacing="0.12em" >DINING</text>
+<text x="534.0" y="199.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#c5e4f5" letter-spacing="0" >Open — no wall</text>
+<text x="198.0" y="393.6" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="650" fill="#f4fbff" letter-spacing="0.12em" >KITCHEN</text>
+<text x="630.0" y="478.4" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="650" fill="#f4fbff" letter-spacing="0.12em" >POWDER</text>
+<text x="630.0" y="490.4" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#c5e4f5" letter-spacing="0" >6'-0" × 8'-0"</text>
+<g transform="translate(592.0,416.0) rotate(0)">
+<rect x="0" y="0" width="28" height="12" rx="1.5" fill="#14365f" stroke="#f4fbff" stroke-width="1.4"/>
+<ellipse cx="14" cy="28" rx="14" ry="16" fill="#14365f" stroke="#f4fbff" stroke-width="1.4"/>
+<ellipse cx="14" cy="28" rx="7" ry="8" fill="none" stroke="#9fd4ea" stroke-width="1"/>
+</g>
+<ellipse cx="650" cy="508" rx="12" ry="9" fill="#14365f" stroke="#f4fbff" stroke-width="1.4"/>
+<ellipse cx="650" cy="508" rx="5.4" ry="4.0" fill="none" stroke="#9fd4ea" stroke-width="1"/>
+<line x1="650.0" y1="495.0" x2="650.0" y2="500.0" stroke="#f4fbff" stroke-width="1.3" />
+<text x="374.0" y="328.0" text-anchor="middle" dominant-baseline="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="13" font-weight="500" fill="#f4fbff" stroke="#0f2a52" stroke-width="5" paint-order="stroke fill">(E) WALL REMOVED</text>
+<text x="406.0" y="372.0" text-anchor="start" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="700" fill="#f4fbff" letter-spacing="0.04em" >NEW BEAM — SIZE BY PROJECT ENGINEER</text>
+<text x="670.0" y="139.2" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="400" fill="#c5e4f5" letter-spacing="0.06em" >TO REST OF HOUSE</text>
+<line x1="78.0" y1="544.0" x2="78.0" y2="578.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="686.0" y1="544.0" x2="686.0" y2="578.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="78.0" y1="578.0" x2="686.0" y2="578.0" stroke="#9fd4ea" stroke-width="1.1" />
+<line x1="73.5" y1="582.5" x2="82.5" y2="573.5" stroke="#f4fbff" stroke-width="1.4" />
+<line x1="681.5" y1="582.5" x2="690.5" y2="573.5" stroke="#f4fbff" stroke-width="1.4" />
+<text x="382.0" y="567.0" text-anchor="middle" dominant-baseline="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="15" font-weight="500" fill="#f4fbff" stroke="#0f2a52" stroke-width="5" paint-order="stroke fill">38'-0"</text>
+<line x1="78.0" y1="96.0" x2="36.0" y2="96.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="78.0" y1="544.0" x2="36.0" y2="544.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="36.0" y1="96.0" x2="36.0" y2="544.0" stroke="#9fd4ea" stroke-width="1.1" />
+<line x1="31.5" y1="91.5" x2="40.5" y2="100.5" stroke="#f4fbff" stroke-width="1.4" />
+<line x1="31.5" y1="539.5" x2="40.5" y2="548.5" stroke="#f4fbff" stroke-width="1.4" />
+<text x="24.0" y="320.0" text-anchor="middle" dominant-baseline="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="15" font-weight="500" fill="#f4fbff" stroke="#0f2a52" stroke-width="5" paint-order="stroke fill" transform="rotate(-90 24.0 320.0)">28'-0"</text>
+<line x1="86.0" y1="104.0" x2="58.0" y2="104.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="86.0" y1="344.0" x2="58.0" y2="344.0" stroke="#9fd4ea" stroke-width="1" />
+<line x1="58.0" y1="104.0" x2="58.0" y2="344.0" stroke="#9fd4ea" stroke-width="1.1" />
+<line x1="53.5" y1="99.5" x2="62.5" y2="108.5" stroke="#f4fbff" stroke-width="1.4" />
+<line x1="53.5" y1="339.5" x2="62.5" y2="348.5" stroke="#f4fbff" stroke-width="1.4" />
+<text x="46.0" y="224.0" text-anchor="middle" dominant-baseline="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="13" font-weight="500" fill="#f4fbff" stroke="#0f2a52" stroke-width="5" paint-order="stroke fill" transform="rotate(-90 46.0 224.0)">15'-0"</text>
+<circle cx="760" cy="78" r="19.8" fill="#14365f" stroke="#f4fbff" stroke-width="1.4"/>
+<polygon points="760,62.2 765.4,80 760,76 754.6,80" fill="#f4fbff"/>
+<polygon points="760,93.8 765.4,76 760,80 754.6,76" fill="none" stroke="#f4fbff" stroke-width="1.2"/>
+<text x="760.0" y="50.2" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11.700000000000001" font-weight="700" fill="#f4fbff" letter-spacing="0" >N</text>
+<rect x="760.0" y="130.0" width="476.0" height="246.0" fill="#14365f" stroke="#f4fbff" stroke-width="1.25" />
+<text x="774.0" y="152.0" text-anchor="start" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="700" fill="#f4fbff" letter-spacing="0.14em" >GENERAL NOTES</text>
+<text x="774.0" y="174.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >1   Illustrative remodel sample. Not a real job.</text>
+<text x="774.0" y="194.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >2   Not for construction and not for permit.</text>
+<text x="774.0" y="214.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >3   Blue walls — existing to remain.</text>
+<text x="774.0" y="234.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >4   Dashed wall — existing partition removed</text>
+<text x="774.0" y="254.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >     for an open kitchen and living room.</text>
+<text x="774.0" y="274.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >5   Gold line — new beam at the old wall.</text>
+<text x="774.0" y="294.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >     Beam size is by a project engineer.</text>
+<text x="774.0" y="314.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >     This sample does not size the beam.</text>
+<text x="774.0" y="334.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >6   Dashed edge at the island is overhang.</text>
+<text x="774.0" y="354.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >7   Area shown is the remodel zone only.</text>
+<rect x="774.0" y="389.0" width="18.0" height="14.0" fill="#1c5584" stroke="#f4fbff" stroke-width="1" />
+<text x="800.0" y="400.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >Existing wall to remain</text>
+<rect x="774.0" y="411.0" width="18.0" height="14.0" fill="#e5b53b" stroke="#f4fbff" stroke-width="1" />
+<text x="800.0" y="422.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >New beam — illustrative</text>
+<rect x="774.0" y="433.0" width="18.0" height="14.0" fill="#f4fbff" stroke="#f4fbff" stroke-width="1" />
+<text x="800.0" y="444.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >New linework</text>
+<rect x="760.0" y="490.0" width="476.0" height="126.0" fill="#14365f" stroke="#f4fbff" stroke-width="1.25" />
+<text x="774.0" y="512.0" text-anchor="start" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="12" font-weight="700" fill="#f4fbff" letter-spacing="0.14em" >OPENING NOTE</text>
+<text x="774.0" y="534.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >Removed wall is about 33 ft long in this</text>
+<text x="774.0" y="554.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >diagram, between the 4 ft nib and the</text>
+<text x="774.0" y="574.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >east exterior wall. Powder room stays.</text>
+<text x="774.0" y="594.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#f7fbff" letter-spacing="0" >Confirm structure before any demolition.</text>
+<rect x="28.0" y="780.0" width="1224.0" height="90.0" fill="#14365f" stroke="#f4fbff" stroke-width="1.5" />
+<line x1="390.0" y1="780.0" x2="390.0" y2="870.0" stroke="#f4fbff" stroke-width="1" />
+<line x1="900.0" y1="780.0" x2="900.0" y2="870.0" stroke="#f4fbff" stroke-width="1" />
+<text x="46.0" y="814.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#f4fbff" letter-spacing="0.08em" >JOE MARK DESIGNS</text>
+<text x="46.0" y="838.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#c5e4f5" letter-spacing="0" >Architectural Draftsman</text>
+<text x="408.0" y="814.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4fbff" letter-spacing="0" >FULL REMODEL  —  OPEN KITCHEN &amp; LIVING</text>
+<text x="408.0" y="838.0" text-anchor="start" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#c5e4f5" letter-spacing="0" >Illustrative sample drawing. Not for construction.</text>
+<text x="918.0" y="806.0" text-anchor="start" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="15" font-weight="700" fill="#f4fbff" letter-spacing="0.06em" >SHEET  A3.0</text>
+<rect x="918.0" y="820.0" width="64.0" height="7.0" fill="#f4fbff" />
+<rect x="982.0" y="820.0" width="64.0" height="7.0" fill="#14365f" stroke="#f4fbff" stroke-width="1" />
+<line x1="918.0" y1="827.0" x2="918.0" y2="831.0" stroke="#f4fbff" stroke-width="1" />
+<text x="918.0" y="842.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#f4fbff" letter-spacing="0" >0</text>
+<line x1="982.0" y1="827.0" x2="982.0" y2="831.0" stroke="#f4fbff" stroke-width="1" />
+<text x="982.0" y="842.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#f4fbff" letter-spacing="0" >4</text>
+<line x1="1046.0" y1="827.0" x2="1046.0" y2="831.0" stroke="#f4fbff" stroke-width="1" />
+<text x="1046.0" y="842.0" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#f4fbff" letter-spacing="0" >8</text>
+<text x="1056.0" y="833.0" text-anchor="start" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#c5e4f5" letter-spacing="0.06em" >FT</text>
+<rect x="16" y="16" width="1248" height="868" fill="none" stroke="#f4fbff" stroke-width="2"/>
+<rect x="22" y="22" width="1236" height="856" fill="none" stroke="#f4fbff" stroke-width="0.7"/>
+</svg>
